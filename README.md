@@ -1,7 +1,10 @@
 ### Hi there 👋 Welcome to my page
 
 ### Some of my recent projects:
-*    [Cluster analysis of Fifa 2020 data set](https://github.com/alexiska/Cluster-analysis-of-fifa-2020-data-set)
+*    [Cluster analysis of Fifa 2020 data set](https://bit.ly/2JsaNDH)
+*    [Cohort analysis: Customer purchase behaviour](https://bit.ly/3o1BZrI)
+*    [A/B-Testing New page vs Old page](https://bit.ly/2JklN6i)
+*    [Hypothesis testing: Comparing race time](https://bit.ly/39rtN03)
      
 
 
