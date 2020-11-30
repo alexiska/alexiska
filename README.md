@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my page
+# Hi there 👋 Welcome to my page
 
 ### Some of my recent projects:
 *    [Cluster analysis of Fifa 2020 data set](https://bit.ly/2JsaNDH)
