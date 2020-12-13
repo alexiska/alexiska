@@ -1,7 +1,7 @@
 # Hi there 👋 Welcome to my page
 
 ## Some of my recent projects:
-*    [Sentiment analysis: Donald Trump's tweet] (https://bit.ly/3oT0tE9)
+*    [Sentiment analysis: Donald Trump's tweet](https://bit.ly/3oT0tE9)
 *    [Cluster analysis of Fifa 2020 data set](https://bit.ly/2JsaNDH)
 *    [Cohort analysis: Customer purchase behaviour](https://bit.ly/3o1BZrI)
 *    [A/B-Testing New page vs Old page](https://bit.ly/2JklN6i)
