@@ -1,6 +1,7 @@
 # Hi there 👋 Welcome to my page
 
 ## Some of my recent projects:
+*    [Predict renting price Airbnb Berlin](http://bit.ly/2Xsf6Cr)
 *    [Predict Online Shoppers Intention](http://bit.ly/2Mm9tn6)
 *    [Sentiment analysis: Donald Trump's tweet](https://bit.ly/3oT0tE9)
 *    [Cluster analysis of Fifa 2020 data set](https://bit.ly/2JsaNDH)
